@@ -1,6 +1,6 @@
 ##  👋 Hi there,
 ### My name is Sevban,
-I usually deal with backend technologies, read cyber security and drink kımız.
+I usually deal with backend technologies, read cyber security and part time rider for Rohirrim.
 I scribbled a few projects on these languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svbnbyrk&layout=compact&theme=tokyonight" />
